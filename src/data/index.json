@@ -44,7 +44,7 @@
         {
             "id":"2",
             "src":"./img/sql-server.png",
-            "title":"C# project",
+            "title":"MovieTrackr",
             "description":"MovieTrackr is a versatile C# application designed to help users organize and manage their movie-watching experience. With MovieTrackr, users can easily catalog the movies they've watched, rate them, add actors, and even support multiple user profiles.",
             "link":"View in Github",
             "realLink":"https://github.com/raresc4/MovieTrackr"
@@ -52,7 +52,7 @@
         {
             "id":"3",
             "src":"./img/java.png",
-            "title":"Java project",
+            "title":"CurrencyXchange",
             "description":"CurrencyXchange is a user-friendly Java application that facilitates real-time currency exchange between various denominations. It utilizes the CurrencyAPI, a comprehensive exchange rate provider, to offer accurate and up-to-date conversion rates. It also uses a MongoDB NoSQL database in order to keep track of all your transactions.",
             "link":"View in Github",
             "realLink":"https://github.com/raresc4/CurrencyXchange"
